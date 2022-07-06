@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <br />
 <img align = "right" src= "https://github.com/praful-parashar/praful-parashar/blob/main/code.gif?raw=true" width="500" height="300" alt = "Coding" />
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>&emsp;
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"></code>&emsp;
+<code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/django-logo-negative.jpeg"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <br /><br />
 <code><img height="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/> </code>&emsp; 
-<code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/celery.png"></code>&emsp;
+<code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/celery_new.png"></code>&emsp;
 <code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/aws_icon.png"></code>
 <br /><br />
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&emsp;
