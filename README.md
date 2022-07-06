@@ -43,10 +43,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prafuljolisa&show_icons=true&count_private=true&theme=gotham" alt="Praful Parashar" />
- </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prafuljolisa&show_icons=true&locale=en&layout=compact&theme=gotham" alt="Praful Parashar" />
- </p>
 
  ## <h3>I'm open to discussions revolving around tech and life, feel free to ping me on :</h3>
   <a href="https://www.linkedin.com/in/prafulparashar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praful's LinkedIn" height="30" width="40" /></a>
