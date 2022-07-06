@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 - I'm Praful, a compassionate developer from India working as a Senior Software Engineer @ <a href = 'https://www.urbanpiper.com/' target = '_blank'>UrbanPiper</a>.
  
     
- <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FF142E&center=true&lines=Software+Engineering;Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures;Algorithms"></a>
-</p>
-
-<h3>Hands On Experience:</h3>
+ 
 <br />
 <img align = "right" src= "https://github.com/praful-parashar/praful-parashar/blob/main/code.gif?raw=true" width="500" height="300" alt = "Coding" />
 
