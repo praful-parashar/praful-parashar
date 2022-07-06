@@ -23,18 +23,17 @@ Here are some ideas to get you started:
  
 <br />
 <img align = "right" src= "https://github.com/praful-parashar/praful-parashar/blob/main/code.gif?raw=true" width="500" height="300" alt = "Coding" />
-&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <br /><br />
-<code><img height="60" src="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </code>&emsp; 
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>&emsp;
-<code><img height="60" src="https://github.com/simple-icons/simple-icons/blob/master/icons/amazonaws.svg"></code>
+<code><img height="60" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/> </code>&emsp; 
+<code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/celery.png"></code>&emsp;
+<code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/aws_icon.png"></code>
 <br /><br />
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&emsp;
-<code><img height="60" src="https://github.com/simple-icons/simple-icons/blob/master/icons/celery.svg"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 <br><br>
 
 
