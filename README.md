@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ## Finally, you're here! :smiley: 
-- I'm Praful, a compassionate developer from India working as a Senior Software Engineer @ <a href = 'https://www.urbanpiper.com/' target = '_blank'>UrbanPiper</a>.
+- I'm Praful, a compassionate developer from India working as a Senior Software Engineer @ <a href = 'https://www.urbanpiper.com/' target = '_blank'>Make My Trip</a>.
  
     
  
