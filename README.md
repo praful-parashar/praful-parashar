@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/celery_new.png"></code>&emsp;
 <code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/aws_icon.png"></code>
 <br /><br />
-<code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>&emsp;
+<code><img height="60" src="https://github.com/praful-parashar/praful-parashar/blob/main/kafka_icon.png"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>&emsp;
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"></code>
 <br><br>
