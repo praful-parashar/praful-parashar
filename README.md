@@ -1,11 +1,11 @@
 <h1 align="center">Praful Parashar</h1>
 
 <p align="center">
-  <b>Team Lead @ Tata 1MG</b> &nbsp;|&nbsp; Ex-<b>MakeMyTrip</b> &nbsp;|&nbsp; Ex-<b>UrbanPiper</b>
+  <b>Technical Lead @ Tata 1MG</b> &nbsp;|&nbsp; Ex-<b>MakeMyTrip</b> &nbsp;|&nbsp; Ex-<b>UrbanPiper</b>
 </p>
 
 <p align="center">
-  <i>Senior Software Engineer with ~7 years of experience building scalable, event-driven systems and automating complex workflows.</i>
+  <i>Senior Software Engineer with 7+ years of experience building scalable, event-driven systems and automating complex workflows.</i>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### About Me
 
-- **Current Role**: Team Lead @ Tata 1MG
+- **Current Role**: Technical Lead @ Tata 1MG
 - **Previous Experience**: Senior Software Engineer @ MakeMyTrip, Senior Software Engineer @ UrbanPiper
 - **Core Focus**: Scalable event-driven architectures, high-concurrency systems, and workflow automation
 
@@ -61,9 +61,6 @@
 | **Super Tripper Award** | **MakeMyTrip** | Outstanding performance in innovation (Q3 2024). |
 | **Sentinel Award** | **UrbanPiper** | Outstanding performance in feature development (2020). |
 | **ProductHunt Top Product** | **Roundup** | Launched async team communication tool built with Django. |
-| **+$10K/mo Revenue Impact** | **Tata 1MG** | Optimized Redis real-time widget workflows, boosting DAU by ~50K. |
-| **50% API Latency Cut** | **MakeMyTrip** | Rate limiting and infrastructure optimization. |
-| **1M+ Orders / Day Peak** | **UrbanPiper** | SaaS integration engine processing peak order volume across major enterprise clients. |
 
 ---
 
